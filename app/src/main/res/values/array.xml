@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="resId">
+        <item>@drawable/one</item>
+        <item>@drawable/two</item>
+        <item>@drawable/three</item>
+        <item>@drawable/three</item>
+
+    </integer-array>
+
+    <string-array name="title">
+        <item>광나루1주차장(암사나들목 앞)</item>
+        <item>광나루2주차장(즈믄길나들목 앞)</item>
+        <item>광나루3주차장(천호대교밑)</item>
+        <item>광나루4주차장(풍납지구)</item>
+
+    </string-array>
+
+    <string-array name="content">
+        <item>강동구 암사동 613-11  / 49대 주차</item>
+        <item>강동구 천호동 483-8 / 119대 주차</item>
+        <item>강동구 풍납동 49-2 / 191대 주차</item>
+        <item>송파구 신천동 255-1 / 공사중</item>
+
+    </string-array>
+
+</resources>
